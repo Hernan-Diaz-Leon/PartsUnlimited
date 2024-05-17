@@ -3,7 +3,7 @@
 
 namespace PartsUnlimited.Models
 {
-    // otro cambio
+    // nuevo cambio
     public class OrderDetail
     {
         public int OrderDetailId { get; set; }
