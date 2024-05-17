@@ -3,7 +3,7 @@
 
 namespace PartsUnlimited.Models
 {
-    // otro canbio
+    // otro cambio
     public class OrderDetail
     {
         public int OrderDetailId { get; set; }
